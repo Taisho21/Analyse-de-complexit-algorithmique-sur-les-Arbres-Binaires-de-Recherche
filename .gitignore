@@ -1,0 +1,2 @@
+*.o          # fichiers objets déjà présents !
+mesures.csv  # généré automatiquement à l'exécution
