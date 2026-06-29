@@ -1,7 +1,6 @@
 # ABR – Analyse de Complexité
 
-Comparaison de 3 algorithmes de vérification d'Arbre Binaire de Recherche 
-en C, sur 3 morphologies d'arbres, avec analyse empirique en Python.
+Analyse empirique de 3 algorithmes de vérification d'ABR en C (naïf, définition, infixe) sur 100 à 100 000 nœuds. Benchmarks automatisés et visualisation log/log en Python/Matplotlib.
 
 ## Méthodes comparées
 - Naïve (O(n²) dans le pire cas)
